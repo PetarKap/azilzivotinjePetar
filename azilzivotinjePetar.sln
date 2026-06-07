@@ -3,21 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azilzivotinjePetar", "azilzivotinjePetar.csproj", "{A95F4410-69A1-449B-B986-B09420AE4170}"
-EndProject
-Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Projekt-AzilŽivotnije", "..\Projekt-Azil-ivotnije1\Projekt-AzilŽivotnije\bin\Debug\Projekt-AzilŽivotnije.exe", "{2FF7EA8D-BB93-1B01-489E-0202B8A40EEF}"
-	ProjectSection(DebuggerProjectSystem) = preProject
-		PortSupplier = 00000000-0000-0000-0000-000000000000
-		Executable = C:\Users\Korisnik\source\repos\Projekt-Azil-ivotnije1\Projekt-AzilŽivotnije\bin\Debug\Projekt-AzilŽivotnije.exe
-		RemoteMachine = DESKTOP-74AI4U1
-		StartingDirectory = C:\Users\Korisnik\source\repos\Projekt-Azil-ivotnije1\Projekt-AzilŽivotnije\bin\Debug
-		Environment = Default
-		LaunchingEngine = 00000000-0000-0000-0000-000000000000
-		UseLegacyDebugEngines = No
-		LaunchSQLEngine = No
-		AttachLaunchAction = No
-		IORedirection = Auto
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azilzivotinjePetar", "..\Projekt-Azil-ivotnije11\Projekt-AzilŽivotnije\azilzivotinjePetar.csproj", "{EE027871-A4C7-46E1-9F55-66AAAB2444B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,18 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Debug|x86.Build.0 = Debug|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Release|x86.ActiveCfg = Release|Any CPU
-		{A95F4410-69A1-449B-B986-B09420AE4170}.Release|x86.Build.0 = Release|Any CPU
-		{2FF7EA8D-BB93-1B01-489E-0202B8A40EEF}.Debug|Any CPU.ActiveCfg = Release|x86
-		{2FF7EA8D-BB93-1B01-489E-0202B8A40EEF}.Debug|x86.ActiveCfg = Release|x86
-		{2FF7EA8D-BB93-1B01-489E-0202B8A40EEF}.Release|Any CPU.ActiveCfg = Release|x86
-		{2FF7EA8D-BB93-1B01-489E-0202B8A40EEF}.Release|x86.ActiveCfg = Release|x86
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE027871-A4C7-46E1-9F55-66AAAB2444B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
